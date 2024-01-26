@@ -1,2 +1,2 @@
 file ok
-file modified 
+file new
